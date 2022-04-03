@@ -1,4 +1,5 @@
 # metalGenerator
+Current dataset on kaggle: https://www.kaggle.com/datasets/colmandekker/metal-guitar-tabs/settings
 using web scraped guitar tabs to generate original metal songs
 
 Goals:
